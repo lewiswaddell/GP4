@@ -23,8 +23,69 @@ execute:
 # Campaign objective
 
 # Target audience
+Target Audience
+Primary Target Audience
+
+The primary target audience for the CPP Farm Store campaign is Cal Poly Pomona students, faculty, staff, and nearby residents between the ages of 18 and 45 who value fresh, locally grown products, sustainability, and convenient shopping experiences. This audience includes both regular campus visitors and community members who are interested in supporting local agriculture while purchasing high-quality products.
+
+Demographic Characteristics
+Age: 18–45
+Students, faculty, staff, and nearby residents
+Located on or near the Cal Poly Pomona campus
+Budget-conscious consumers with active lifestyles
+Mobile-first shoppers who frequently use digital platforms
+Motivations
+
+The target audience is motivated by convenience, product quality, and community involvement. They want easy access to fresh produce without spending excessive time shopping, while also supporting local farming and the university. Seasonal products, gift bundles, and campus-grown items provide additional value because they offer unique products that are not commonly found in traditional grocery stores.
+
+Shopping Behavior
+
+Most customers begin their purchasing journey online by searching for products, comparing options, or viewing recommendations on social media before deciding to visit the store. They rely heavily on smartphones, Google Search, Instagram, and TikTok to discover products and promotions. Many also prefer ordering online and picking up their purchases in-store because it saves time and provides greater convenience.
+
+Pain Points
+
+Several barriers currently limit customer engagement with CPP Farm Store:
+
+Low awareness of the store among students and first-time campus visitors.
+Limited knowledge of store hours, location, and pickup options.
+Seasonal products and gift bundles are not consistently promoted online.
+Customers have difficulty discovering products without a strong digital presence.
+There is limited connection between online browsing and the in-store shopping experience.
+Relevant Touchpoints
+
+Throughout the customer journey, the most influential touchpoints include:
+
+Instagram
+TikTok
+Shopify website
+Google Search and Google Shopping
+Campus email newsletters
+Campus events and student organizations
+In-store visits and pickup experience
+Why This Audience Matters
+
+This audience represents the largest and most accessible market for CPP Farm Store because they are already connected to the university and frequently visit campus. Their digital-first shopping habits make them highly responsive to integrated marketing efforts that combine social media, Google Search, and Shopify. By increasing awareness through these channels and providing a seamless transition from online discovery to in-store pickup, CPP Farm Store can attract new customers, encourage repeat visits, and build long-term loyalty within the campus community.
 
 # Core campaign message
+
+Campaign Theme
+
+Fresh from Our Farm to Your Campus
+
+Core Campaign Message
+
+CPP Farm Store connects the Cal Poly Pomona community with fresh, locally grown products through a convenient omnichannel shopping experience. Customers can discover seasonal products online, explore detailed product information through the Shopify store, and easily complete their purchase with in-store pickup. The campaign emphasizes freshness, convenience, and support for local agriculture while creating a stronger connection between digital engagement and the physical store.
+
+Value Proposition
+
+CPP Farm Store offers customers:
+
+Fresh, locally grown products harvested from the university farm.
+A convenient online shopping experience with simple in-store pickup.
+Seasonal produce and unique gift options that reflect the local community.
+An opportunity to support Cal Poly Pomona agriculture and sustainable farming initiatives.
+A seamless omnichannel experience that connects online product discovery with in-store purchasing.
+
 
 # Channel strategy
 
