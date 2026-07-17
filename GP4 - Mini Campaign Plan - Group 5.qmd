@@ -17,3 +17,23 @@ editor: visual
 execute: 
   freeze: auto
 ---
+
+# Business problem or opportunity
+
+# Campaign objective
+
+# Target audience
+
+# Core campaign message
+
+# Channel strategy
+
+# Omnichannel flow
+
+# Campaign tactics
+
+# Budget recommendation
+
+# KPIs
+
+# Optimization plan
