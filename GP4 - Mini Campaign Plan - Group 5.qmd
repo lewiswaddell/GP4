@@ -23,18 +23,12 @@ execute:
 # Campaign objective
 
 # Target audience
-Target Audience
-Primary Target Audience
+
+Target Audience Primary Target Audience
 
 The primary target audience for the CPP Farm Store campaign is Cal Poly Pomona students, faculty, staff, and nearby residents between the ages of 18 and 45 who value fresh, locally grown products, sustainability, and convenient shopping experiences. This audience includes both regular campus visitors and community members who are interested in supporting local agriculture while purchasing high-quality products.
 
-Demographic Characteristics
-Age: 18–45
-Students, faculty, staff, and nearby residents
-Located on or near the Cal Poly Pomona campus
-Budget-conscious consumers with active lifestyles
-Mobile-first shoppers who frequently use digital platforms
-Motivations
+Demographic Characteristics Age: 18–45 Students, faculty, staff, and nearby residents Located on or near the Cal Poly Pomona campus Budget-conscious consumers with active lifestyles Mobile-first shoppers who frequently use digital platforms Motivations
 
 The target audience is motivated by convenience, product quality, and community involvement. They want easy access to fresh produce without spending excessive time shopping, while also supporting local farming and the university. Seasonal products, gift bundles, and campus-grown items provide additional value because they offer unique products that are not commonly found in traditional grocery stores.
 
@@ -46,23 +40,11 @@ Pain Points
 
 Several barriers currently limit customer engagement with CPP Farm Store:
 
-Low awareness of the store among students and first-time campus visitors.
-Limited knowledge of store hours, location, and pickup options.
-Seasonal products and gift bundles are not consistently promoted online.
-Customers have difficulty discovering products without a strong digital presence.
-There is limited connection between online browsing and the in-store shopping experience.
-Relevant Touchpoints
+Low awareness of the store among students and first-time campus visitors. Limited knowledge of store hours, location, and pickup options. Seasonal products and gift bundles are not consistently promoted online. Customers have difficulty discovering products without a strong digital presence. There is limited connection between online browsing and the in-store shopping experience. Relevant Touchpoints
 
 Throughout the customer journey, the most influential touchpoints include:
 
-Instagram
-TikTok
-Shopify website
-Google Search and Google Shopping
-Campus email newsletters
-Campus events and student organizations
-In-store visits and pickup experience
-Why This Audience Matters
+Instagram TikTok Shopify website Google Search and Google Shopping Campus email newsletters Campus events and student organizations In-store visits and pickup experience Why This Audience Matters
 
 This audience represents the largest and most accessible market for CPP Farm Store because they are already connected to the university and frequently visit campus. Their digital-first shopping habits make them highly responsive to integrated marketing efforts that combine social media, Google Search, and Shopify. By increasing awareness through these channels and providing a seamless transition from online discovery to in-store pickup, CPP Farm Store can attract new customers, encourage repeat visits, and build long-term loyalty within the campus community.
 
@@ -80,12 +62,7 @@ Value Proposition
 
 CPP Farm Store offers customers:
 
-Fresh, locally grown products harvested from the university farm.
-A convenient online shopping experience with simple in-store pickup.
-Seasonal produce and unique gift options that reflect the local community.
-An opportunity to support Cal Poly Pomona agriculture and sustainable farming initiatives.
-A seamless omnichannel experience that connects online product discovery with in-store purchasing.
-
+Fresh, locally grown products harvested from the university farm. A convenient online shopping experience with simple in-store pickup. Seasonal produce and unique gift options that reflect the local community. An opportunity to support Cal Poly Pomona agriculture and sustainable farming initiatives. A seamless omnichannel experience that connects online product discovery with in-store purchasing.
 
 # Channel strategy
 
@@ -97,7 +74,51 @@ A seamless omnichannel experience that connects online product discovery with in
 
 # KPIs
 
+## Key Performance Indicators
+
+To measure the success of the CPP Farm Store campaign, the following key performance indicators (KPIs) will be tracked throughout the campaign period. These metrics align with the campaign objective of increasing awareness, driving online engagement, and encouraging in-store purchases.
+
+### Website Traffic
+
+Monitor the number of visitors to the Shopify store to evaluate whether digital marketing efforts are successfully increasing awareness of the CPP Farm Store.
+
+### Product Page Views
+
+Track views on seasonal products, gift bundles, and featured farm products to understand which items generate the greatest customer interest.
+
+### Click-Through Rate (CTR)
+
+Measure the percentage of users who click on advertisements, social media posts, emails, and Google Shopping listings to determine the effectiveness of campaign messaging and creative content.
+
+### Conversion Rate
+
+Track the percentage of website visitors who complete a purchase or place an online pickup order. This metric evaluates how well the website converts interest into sales.
+
+### In-Store Pickup Orders
+
+Measure the number of online orders selected for in-store pickup to determine whether the campaign successfully connects the online shopping experience with physical store visits.
+
+### Social Media Engagement
+
+Monitor likes, comments, shares, saves, and video views across Instagram and TikTok to evaluate audience interaction and brand awareness.
+
+### Campaign Revenue
+
+Measure total revenue generated during the campaign and compare it with previous sales periods to determine the campaign's overall financial impact.
+
 # Optimization plan
+
+## Campaign Optimization Strategy
+
+Following the campaign launch, CPP Farm Store should continuously monitor campaign performance and make data-driven improvements based on customer behavior and campaign results.
+
+The marketing team should regularly compare different ad creatives, headlines, and product images through A/B testing to determine which messages generate the highest click-through and conversion rates. Product titles and descriptions should also be updated based on search trends and customer engagement to improve product discoverability.
+
+Campaign budgets should be adjusted throughout the campaign by allocating more spending toward the highest-performing channels, such as Instagram, Google Shopping, or email marketing, while reducing investment in lower-performing advertisements.
+
+The team should also monitor best-selling seasonal products and update the Shopify homepage, featured collections, and product feed to highlight items with the greatest demand. Landing pages should be reviewed regularly to improve page speed, simplify navigation, and make the checkout process as seamless as possible.
+
+Finally, customer purchasing patterns and seasonal demand should be analyzed throughout the campaign to identify future promotional opportunities, optimize inventory planning, and improve future omnichannel marketing campaigns.
 
 # Appendix
 
