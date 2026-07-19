@@ -20,7 +20,15 @@ execute:
 
 # Business problem or opportunity
 
+The CPP Farm Store offers fresh, locally sourced, and campus grown products, but many potential customers are not fully aware of the store's products, seasonal offerings, or gift basket services. The store also has an outdated digital presence and limited online product information, making it difficult for customers to browse the items found in store, and to understand the gift basket ordering process.
+
+The main issue the CPP Farm Store wants us to focus on is the current gift basket ordering process. This process relies heavily on manual communication, which can be inconvenient for customers while also being time consuming for the employees. These challenges create a disconnect between online product discovery and in store purchasing, leading to potential loss in revenue, and customer engagement. Overall. the biggest problems the CPP Farm Store has are the need to improve awareness and the need to digitize their ordering system which would not only include the gift baskets, but the purchasing process as a whole.
+
 # Campaign objective
+
+The objective of the "Fresh from Our Farm to Your Campus" campaign is to increase awareness of the CPP Farm store. The campaign will use Google Search, Google Shopping, Facebook, Instagram, email, campus partnerships, and QR-code signage to help bring awareness to the farm's seasonal products and bundles online.
+
+The campaign will also encourage customers to place online orders for in-store pickup, which can lead to a stronger connection between digital product discovery and visits to the physical store. Over the eight week \[pilot period, success will be measured through website traffic, product-page views, click through rates (CTR), online pickup orders, social media engagement, conversion rate, and campaign revenue.
 
 # Target audience
 
@@ -116,7 +124,7 @@ The product bundles and featured items should change based on inventory and seas
 CPP Farm Store should begin with a hypothetical **\$3,000 budget for an eight-week pilot campaign**. The budget prioritizes Google and social media advertising because these channels can generate measurable website traffic and reach customers both on and near campus. The remaining budget supports the Shopify experience, campaign content, email communication, and physical signage.
 
 | Budget category | Amount | Percentage | Reason for allocation |
-|-----------------|------------------:|------------------:|-----------------|
+|------------------|------------------:|------------------:|------------------|
 | Google Search and Shopping Ads | \$1,050 | 35% | Google reaches customers who are actively searching for local produce, gift baskets, store information, and nearby shopping options. |
 | Facebook and Instagram advertising | \$750 | 25% | Paid social media increases awareness among students, faculty, staff, alumni, and nearby residents who may not currently follow the store. |
 | Content and creative production | \$300 | 10% | Supports product photography, short-form videos, social media graphics, advertisement designs, and email visuals. |
@@ -190,6 +198,6 @@ Finally, customer purchasing patterns and seasonal demand should be analyzed thr
 
 # Appendix
 
--   [GitHub Repo](https://github.com/lewiswaddell/GP4.git)
+- [GitHub Repo](https://github.com/lewiswaddell/GP4.git)
 
--   [GitHub Page](https://lewiswaddell.github.io/GP4/)
+- [GitHub Page](https://lewiswaddell.github.io/GP4/)
