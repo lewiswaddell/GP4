@@ -101,7 +101,7 @@ The six key handoffs at the bottom of the diagram show exactly where each channe
 The campaign will use an eight-week pilot program built around the theme **“Fresh from Our Farm to Your Campus.”** Each tactic is designed to move customers from awareness to online product discovery, in-store pickup, and future repeat purchases.
 
 | Campaign tactic | Channel | Execution | Role in the customer journey |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | **“Fresh This Week” landing page** | Shopify | Create a dedicated landing page featuring current seasonal products, product availability, store hours, location, and pickup instructions. The page should be updated weekly and linked from all campaign channels. | Gives customers one clear destination to browse products and prepare for a store visit or pickup order. |
 | **Seasonal pickup bundles** | Shopify and physical store | Offer a rotating seasonal produce bundle and a CPP Farm Store gift bundle. Bundles should include clear product descriptions, pricing, estimated pickup time, and product images. | Makes shopping easier for customers who want convenience or need a ready-made gift option. |
 | **“Fresh This Week” social media series** | Facebook and Instagram | Publish two to three posts per week featuring newly available products, behind-the-scenes farm content, bundle promotions, customer favorites, and pickup reminders. Instagram Stories can also be used for product availability updates and polls. | Builds awareness and gives customers a reason to regularly check what is available. |
@@ -124,7 +124,7 @@ The product bundles and featured items should change based on inventory and seas
 CPP Farm Store should begin with a hypothetical **\$3,000 budget for an eight-week pilot campaign**. The budget prioritizes Google and social media advertising because these channels can generate measurable website traffic and reach customers both on and near campus. The remaining budget supports the Shopify experience, campaign content, email communication, and physical signage.
 
 | Budget category | Amount | Percentage | Reason for allocation |
-|------------------|------------------:|------------------:|------------------|
+|----|---:|---:|----|
 | Google Search and Shopping Ads | \$1,050 | 35% | Google reaches customers who are actively searching for local produce, gift baskets, store information, and nearby shopping options. |
 | Facebook and Instagram advertising | \$750 | 25% | Paid social media increases awareness among students, faculty, staff, alumni, and nearby residents who may not currently follow the store. |
 | Content and creative production | \$300 | 10% | Supports product photography, short-form videos, social media graphics, advertisement designs, and email visuals. |
@@ -198,6 +198,6 @@ Finally, customer purchasing patterns and seasonal demand should be analyzed thr
 
 # Appendix
 
-- [GitHub Repo](https://github.com/lewiswaddell/GP4.git)
+-   [GitHub Repo](https://github.com/lewiswaddell/GP4.git)
 
-- [GitHub Page](https://lewiswaddell.github.io/GP4/)
+-   [GitHub Page](https://lewiswaddell.github.io/GP4/)
