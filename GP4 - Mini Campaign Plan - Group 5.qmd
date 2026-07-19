@@ -24,7 +24,7 @@ execute:
 
 # Target audience
 
-Target Audience Primary Target Audience
+## Target Audience Primary Target Audience
 
 The primary target audience for the CPP Farm Store campaign is Cal Poly Pomona students, faculty, staff, and nearby residents between the ages of 18 and 45 who value fresh, locally grown products, sustainability, and convenient shopping experiences. This audience includes both regular campus visitors and community members who are interested in supporting local agriculture while purchasing high-quality products.
 
@@ -32,11 +32,11 @@ Demographic Characteristics Age: 18–45 Students, faculty, staff, and nearby re
 
 The target audience is motivated by convenience, product quality, and community involvement. They want easy access to fresh produce without spending excessive time shopping, while also supporting local farming and the university. Seasonal products, gift bundles, and campus-grown items provide additional value because they offer unique products that are not commonly found in traditional grocery stores.
 
-Shopping Behavior
+## Shopping Behavior
 
 Most customers begin their purchasing journey online by searching for products, comparing options, or viewing recommendations on social media before deciding to visit the store. They rely heavily on smartphones, Google Search, Instagram, and TikTok to discover products and promotions. Many also prefer ordering online and picking up their purchases in-store because it saves time and provides greater convenience.
 
-Pain Points
+## Pain Points
 
 Several barriers currently limit customer engagement with CPP Farm Store:
 
@@ -50,15 +50,15 @@ This audience represents the largest and most accessible market for CPP Farm Sto
 
 # Core campaign message
 
-Campaign Theme
+## Campaign Theme
 
 Fresh from Our Farm to Your Campus
 
-Core Campaign Message
+## Core Campaign Message
 
 CPP Farm Store connects the Cal Poly Pomona community with fresh, locally grown products through a convenient omnichannel shopping experience. Customers can discover seasonal products online, explore detailed product information through the Shopify store, and easily complete their purchase with in-store pickup. The campaign emphasizes freshness, convenience, and support for local agriculture while creating a stronger connection between digital engagement and the physical store.
 
-Value Proposition
+## Value Proposition
 
 CPP Farm Store offers customers:
 
@@ -66,7 +66,27 @@ Fresh, locally grown products harvested from the university farm. A convenient o
 
 # Channel strategy
 
+CPP Farm Store's campaign uses a *six-channel omnichannel strategy* designed to meet customers where they already are and guide them toward in-store pickup as the primary conversion point.
+
+**Google Search** and **Google Shopping** serve as the top-of-funnel discovery layer, capturing high-intent searches for local produce, gift baskets, and campus products. A well-configured product feed in Google Merchant Center ensures CPP Farm Store appears when nearby shoppers are actively looking for what the store carries.
+
+**Facebook and Instagram** handle awareness and engagement for audiences who are not yet actively searching. With 10K followers on Facebook and 4K on Instagram, Facebook is the stronger existing broadcast channel for reaching the broader local community, while Instagram targets the younger campus segment through visual content. Both platforms drive traffic to the Shopify store.
+
+**Shopify** functions as the central hub — the single destination that all other channels point to. It is where customers browse products, learn about gift basket options, and place pickup orders, replacing the current analog ordering workflow with a digitized, self-serve experience.
+
+**Email and newsletter** serve the mid-to-lower funnel, keeping existing customers informed of seasonal availability, promotions, and gift basket options. The existing *in-store QR code sign-up* feeds this list directly, connecting the physical store to the digital channel.
+
+The **physical store** remains the *fulfillment endpoint for all channels*. In-store pickup is the primary conversion mechanism, meaning every digital channel ultimately drives customers back through the door.
+
 # Omnichannel flow
+
+![*CPP Farmstore Omnichannel Flow*](cpp_farmstore_omnichannel_flow_v2.png)
+
+The flow above illustrates how a customer moves through CPP Farm Store's six channels across five journey stages. A customer first discovers the store through Google Search, a Facebook post, or an Instagram visual. From there, both Google Shopping ads and social media links direct them to the Shopify store, where they can browse products, explore gift basket options, and place a pickup order. The physical store is the fulfillment endpoint: every digital channel converges here.
+
+After pickup, the in-store QR code feeds customers into the Constant Contact email list, which then closes the loop by sending seasonal availability alerts that bring customers back to the top of the funnel.
+
+The six key handoffs at the bottom of the diagram show exactly where each channel transition happens and what it needs to do to keep the customer moving forward.
 
 # Campaign tactics
 
